@@ -1,0 +1,14 @@
+{
+  "name": "electrontest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Bruno Rodrigues",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^6.0.2"
+  }
+}
